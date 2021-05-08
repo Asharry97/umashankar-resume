@@ -131,6 +131,7 @@ div[class*="overview"] {
 
 .work-exp-item {
     position: relative;
+    margin-top: 16px;
     margin-bottom: 25px;
 }
 
@@ -145,6 +146,11 @@ div[class*="overview"] {
     border: 4px solid var(--my-color-voilet);
     background: white;
     border-radius: 50%;
+}
+
+.project-details {
+    margin-top: 16px;
+    margin-bottom: 20px;
 }
 
 .info-contact {
