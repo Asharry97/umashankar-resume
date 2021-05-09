@@ -256,8 +256,6 @@ a.bg-dark, button.bg-dark  {
 a.bg-dark:hover, button.bg-dark:hover  {
     background-color: #fff!important;
     color: var(--my-color-voilet)!important;
-    border-color: var(--my-color-voilet);
-    border: 2px solid;
 }
 
 /****/
