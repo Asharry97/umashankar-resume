@@ -246,3 +246,18 @@ div[class*="overview"] {
 .profile-index-page {
     display: none;
 }
+
+/*** Test css ***/
+
+a.bg-dark, button.bg-dark  {
+    transition: all 0.3s;
+}
+
+a.bg-dark:hover, button.bg-dark:hover  {
+    background-color: #fff!important;
+    color: var(--my-color-voilet)!important;
+    border-color: var(--my-color-voilet);
+    border: 2px solid;
+}
+
+/****/
